@@ -49,10 +49,10 @@ args = parser.parse_args()
 
 """ Test de fichier de travail en Système Windows """
 
-#chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/exemple.sam"  # petit fichier sous windows
-#chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/exemple1l.sam"  # petit fichier sous windows
-#chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/mapping.sam"  # gros fichier sous windows
-#chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/realSam.sam"  # ultra gros fichier de JayJay sous windows
+# chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/exemple.sam"  # petit fichier sous windows
+# chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/exemple1l.sam"  # petit fichier sous windows
+# chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/mapping.sam"  # gros fichier sous windows
+# chemin = "C:/Users/Xï@V/Desktop/Master_BCD/HMIN113M/Projet/realSam.sam"  # ultra gros fichier de JayJay sous windows
 
 #####################################################################################################################
 ##""" I. Lecture du fichier SAM au final, le nom du fichier sera passer en paramètre dans la ligne de commande """###
